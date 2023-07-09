@@ -2,8 +2,7 @@
 ### Category:
 steganography, crypto.
 ### Description:
-She sells **_SEA_** shells at the **_SEA_** shore.
-![Image](https://github.com/Srikar-Arugonda-1/CTF/blob/main/kludge_selections/shells.jpeg)
+She sells **_SEA_** shells at the **_SEA_** shore. ![Image](https://github.com/Srikar-Arugonda-1/CTF/blob/main/kludge_selections/shells.jpeg)
 ### Flag format: 
 kludgeCTF{}
 ### Hints:
